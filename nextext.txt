@@ -1,2 +1,0 @@
-can i commit a new file from command line?
-Done, now modified.
